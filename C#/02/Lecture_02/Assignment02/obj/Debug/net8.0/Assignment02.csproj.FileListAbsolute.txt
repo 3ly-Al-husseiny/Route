@@ -1,0 +1,14 @@
+A:\Route\C#\02\Lecture_02\Assignment02\bin\Debug\net8.0\Assignment02.exe
+A:\Route\C#\02\Lecture_02\Assignment02\bin\Debug\net8.0\Assignment02.deps.json
+A:\Route\C#\02\Lecture_02\Assignment02\bin\Debug\net8.0\Assignment02.runtimeconfig.json
+A:\Route\C#\02\Lecture_02\Assignment02\bin\Debug\net8.0\Assignment02.dll
+A:\Route\C#\02\Lecture_02\Assignment02\bin\Debug\net8.0\Assignment02.pdb
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\Assignment02.AssemblyInfoInputs.cache
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\Assignment02.AssemblyInfo.cs
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\Assignment02.csproj.CoreCompileInputs.cache
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\Assignment02.dll
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\refint\Assignment02.dll
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\Assignment02.pdb
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\Assignment02.genruntimeconfig.cache
+A:\Route\C#\02\Lecture_02\Assignment02\obj\Debug\net8.0\ref\Assignment02.dll
